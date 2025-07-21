@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hi, I'm Rachel | Data Analyst in Training! 👋
+I'm currently completing the IBM Data Analyst Certificate on Coursera and buikding projects using Excel, SQL, Python, and Tableau.
+#Skill i'm learning
+-Excel (Dashboards, Pivot Tables)
+-Python (Pandas, Matplotlib)
+-SQL (Joins, Filtering, Queries)
+- Data Visualization
 <!--
 **RayyJayy98/RayyJayy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
